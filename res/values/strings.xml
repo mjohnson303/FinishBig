@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FinishBig!</string>
+    <string name="app_name">Finish Big</string>
+    <string name="add_label">Add Race</string>
+    <string name="view_label">View Races</string>
+    <string name="account_label">User Account</string>
+    <string name="raceName">Enter Race Name</string>
+    <string name="raceTime">Enter the Time You Ran the Race in Seconds</string>
+    <string name="raceLength">Enter the Length of the Race in Meters</string> 
+	<string name="raceDate">Enter the Date of the Race</string> 
+	<string name="raceLocation">Enter the Location of the Race (City, State)</string>
+	<string name="racePlace">Enter What You Placed in the Race</string> 
+	<string name="done_label">Submit</string> 
+
+</resources>
